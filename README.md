@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Repositorio de prueba de PrepCourse de Henry 
+este es un proyecto de prueba de como crear un repositorio y clonarlo desde GIDHUB a mi computadora
